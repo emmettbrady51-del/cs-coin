@@ -28,6 +28,7 @@ double total = pennys * PENNY_VALUE
 + halfDollars * .5
 + dollars * 1;
 // total value of the coins
+//ji
 NumberFormat formatter
 = NumberFormat.getCurrencyInstance(Locale.US);
     
